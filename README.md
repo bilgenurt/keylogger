@@ -1,5 +1,5 @@
 # keylogger
-Bu proje, Python kullanarak klavye tuş basımlarını kaydeden ve her cümle tamamlandığında (Enter tuşuna basıldığında veya log uzunluğu belirli bir değeri aştığında) bu logları bir Telegram botu aracılığıyla gönderir
+Bu proje, Python kullanarak klavye tuş basımlarını kaydeden ve her cümle tamamlandığında (Enter tuşuna basıldığında veya log uzunluğu belirli bir değeri aştığında) bu logları bir Telegram botu aracılığıyla gönderir.
 
 ## Nasıl Çalışır?
 
