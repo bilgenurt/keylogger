@@ -66,7 +66,7 @@ Bu proje, Python kullanarak klavye tuş basımlarını kaydeden ve her cümle ta
     Terminal veya VS Code entegre terminalinde aşağıdaki komutu çalıştırın:
     
     ```
-    python keylogger.py
+    python btkeylogger.py
     ```
     
 4. **Çalıştırıldığında:**
