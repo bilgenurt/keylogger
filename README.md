@@ -50,7 +50,7 @@ Bu proje, Python kullanarak klavye tuş basımlarını kaydeden ve her cümle ta
     
     ```
     
-    git clone https://github.com/USERNAME/keylogger.git
+    git clone https://github.com/bilgenurt/keylogger.git
     cd keylogger
     
     ```
